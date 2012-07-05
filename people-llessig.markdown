@@ -1,6 +1,6 @@
 <ul class="menu">
-<li class="leaf"><a href="-about">About</a></li>
-<li class="leaf"><a href="http://cyber.law.harvard.edu/people" class="active">People</a></li>
+<li class="leaf"><a href="http://cyber.law.harvard.edu/about">About</a></li>
+<li class="leaf"><a href="-people" class="active">People</a></li>
 <li class="leaf"><a href="http://cyber.law.harvard.edu/research">Research</a></li>
 <li class="leaf"><a href="http://cyber.law.harvard.edu/publications">Publications</a></li>
 <li class="leaf"><a href="http://cyber.law.harvard.edu/teaching">Teaching</a></li>
